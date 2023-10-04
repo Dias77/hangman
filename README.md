@@ -17,6 +17,12 @@ This is a Python implementation of the classic game Hangman with a twist - hints
 5. You win the game if you correctly guess all the letters in the secret word before running out of guesses.
 6. After each game, you can choose to play again or exit.
 
+## Scoring
+
+Your score is calculated based on the number of guesses you have left and the unique letters you've guessed correctly. Here's how your score is calculated:
+* The number of guesses you have left is multiplied by the number of unique letters you've guessed correctly.
+* The higher your score, the better you've performed in the game.
+
 ## Game Output
 
 The game will display the following information during each turn:
