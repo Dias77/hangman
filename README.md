@@ -1,6 +1,6 @@
 # Hangman Game with Hints
 
-This is a Python implementation of the classic game Hangman with a twist - hints! In this game, you'll be provided with a secret word, and your task is to guess the word one letter at a time. You have limited chances to guess the correct letters, so use your guesses wisely. If you run out of guesses before solving the word, you lose the game.
+This is a Procedural Python implementation of the classic game Hangman with a twist - hints! In this game, you'll be provided with a secret word, and your task is to guess the word one letter at a time. You have limited chances to guess the correct letters, so use your guesses wisely. If you run out of guesses before solving the word, you lose the game.
 
 ## How to Play
 
